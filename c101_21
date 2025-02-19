@@ -298,13 +298,13 @@ Total UAV Distance in Cluster 1: 20.0 units
 Total UAV Energy Consumption in Cluster 1: 5.0 kWh
 ==================================================================================================
 Total UAV Distance in Cluster 2: 189.96 units
-Total UAV Energy Consumption in Cluster 2: 63.809999999999995 kWh
+Total UAV Energy Consumption in Cluster 2: 63.81 kWh
 ==================================================================================================
 GRAND TOTAL UAV Distance: 209.96 units
 GRAND TOTAL UAV Energy Consumption: 68.81 kWh
 ==================================================================================================
 TOTAL DISTANCE (UAV Cluster 1 + UAV Cluster 2 + Truck): 1227.65 units
-TOTAL ENERGY (UAV Cluster 1 + UAV Cluster 2 + Truck): 1659.9700000000003 kWh
+TOTAL ENERGY (UAV Cluster 1 + UAV Cluster 2 + Truck): 1659.97 kWh
 ==================================================================================================
 CPU time used: 126.9375 seconds
 ==================================================================================================
