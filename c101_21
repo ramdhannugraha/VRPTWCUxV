@@ -1,0 +1,283 @@
+Path 1:
+Original Path Distance: 105.91
+Truck Path Distance: 104.92
+Truck Payload: 160.0kg
+Truck Energy Consumption: 160.53 kWh
+
+UAV Path Metrics:
+  UAV Trip 1:
+    Distance: 10.99
+    Payload: 20.0kg
+    Energy Consumption: 4.4 kWh
+  UAV Trip 2:
+    Distance: 6.0
+    Payload: 10.0kg
+    Energy Consumption: 1.5 kWh
+
+Total UAV Distance: 16.99
+Total UAV Energy Consumption: 5.9 kWh
+
+Path Combined Metrics:
+Total Combined Distance: 121.91
+Total Combined Energy: 166.43 kWh
+
+Path IDs:
+Truck Path: ['D0', 'C95', 'C92', 'S4', 'C93', 'C97', 'C100', 'S3', 'C3', 'C5', 'S0', 'D0']
+UAV Path: [['C95', 'C96', 'C94', 'C92'], ['C100', 'C99', 'S3']]
+
+Path 2:
+Original Path Distance: 217.0
+Truck Path Distance: 204.5
+Truck Payload: 180.0kg
+Truck Energy Consumption: 345.6 kWh
+
+UAV Path Metrics:
+  UAV Trip 1:
+    Distance: 8.83
+    Payload: 10.0kg
+    Energy Consumption: 2.21 kWh
+  UAV Trip 2:
+    Distance: 7.0
+    Payload: 10.0kg
+    Energy Consumption: 1.75 kWh
+
+Total UAV Distance: 15.83
+Total UAV Energy Consumption: 3.96 kWh
+
+Path Combined Metrics:
+Total Combined Distance: 220.33
+Total Combined Energy: 349.56 kWh
+
+Path IDs:
+Truck Path: ['D0', 'C98', 'S2', 'S20', 'C70', 'C71', 'C79', 'C77', 'C80', 'C78', 'C81', 'S19', 'S18', 'S17', 'C72', 'C61', 'C66', 'D0']
+UAV Path: [['C70', 'C73', 'C71'], ['C71', 'C76', 'C78']]
+
+Path 3:
+Original Path Distance: 60.93
+Truck Path Distance: 53.49
+Truck Payload: 120.0kg
+Truck Energy Consumption: 64.72 kWh
+
+UAV Path Metrics:
+  UAV Trip 1:
+    Distance: 5.0
+    Payload: 10.0kg
+    Energy Consumption: 1.25 kWh
+  UAV Trip 2:
+    Distance: 5.84
+    Payload: 10.0kg
+    Energy Consumption: 1.46 kWh
+  UAV Trip 3:
+    Distance: 11.16
+    Payload: 20.0kg
+    Energy Consumption: 4.46 kWh
+
+Total UAV Distance: 22.0
+Total UAV Energy Consumption: 7.17 kWh
+
+Path Combined Metrics:
+Total Combined Distance: 75.49
+Total Combined Energy: 71.89 kWh
+
+Path IDs:
+Truck Path: ['D0', 'C75', 'C2', 'C6', 'C7', 'C9', 'C8', 'D0']
+UAV Path: [['C75', 'C1', 'C2'], ['C2', 'C4', 'C6'], ['C7', 'C10', 'C11', 'C9']]
+
+Path 4:
+Original Path Distance: 75.62
+Truck Path Distance: 55.18
+Truck Payload: 80.0kg
+Truck Energy Consumption: 49.11 kWh
+
+UAV Path Metrics:
+  UAV Trip 1:
+    Distance: 7.0
+    Payload: 20.0kg
+    Energy Consumption: 2.8 kWh
+  UAV Trip 2:
+    Distance: 10.99
+    Payload: 20.0kg
+    Energy Consumption: 4.4 kWh
+  UAV Trip 3:
+    Distance: 14.67
+    Payload: 20.0kg
+    Energy Consumption: 5.87 kWh
+  UAV Trip 4:
+    Distance: 15.15
+    Payload: 20.0kg
+    Energy Consumption: 6.06 kWh
+
+Total UAV Distance: 47.81
+Total UAV Energy Consumption: 19.13 kWh
+
+Path Combined Metrics:
+Total Combined Distance: 102.99
+Total Combined Energy: 68.24 kWh
+
+Path IDs:
+Truck Path: ['D0', 'C42', 'C44', 'C46', 'C47', 'C50', 'D0']
+UAV Path: [['C42', 'C41', 'C40', 'C44'], ['C42', 'C45', 'C48', 'C47'], ['C42', 'C43', 'C51', 'C50'], ['C42', 'C52', 'C49', 'C46']]
+
+Path 5:
+Original Path Distance: 79.07
+Truck Path Distance: 76.35
+Truck Payload: 130.0kg
+Truck Energy Consumption: 98.49 kWh
+
+UAV Path Metrics:
+  UAV Trip 1:
+    Distance: 8.62
+    Payload: 10.0kg
+    Energy Consumption: 2.15 kWh
+  UAV Trip 2:
+    Distance: 6.61
+    Payload: 10.0kg
+    Energy Consumption: 1.65 kWh
+  UAV Trip 3:
+    Distance: 13.99
+    Payload: 20.0kg
+    Energy Consumption: 5.6 kWh
+
+Total UAV Distance: 29.22
+Total UAV Energy Consumption: 9.4 kWh
+
+Path Combined Metrics:
+Total Combined Distance: 105.57
+Total Combined Energy: 107.89 kWh
+
+Path IDs:
+Truck Path: ['D0', 'C90', 'C87', 'S1', 'C82', 'C84', 'C85', 'C88', 'D0']
+UAV Path: [['C87', 'C86', 'S1'], ['C82', 'C83', 'C84'], ['C85', 'C89', 'C91', 'C88']]
+
+Path 6:
+Original Path Distance: 150.68
+Truck Path Distance: 148.33
+Truck Payload: 170.0kg
+Truck Energy Consumption: 238.81 kWh
+
+UAV Path Metrics:
+  UAV Trip 1:
+    Distance: 5.0
+    Payload: 10.0kg
+    Energy Consumption: 1.25 kWh
+  UAV Trip 2:
+    Distance: 10.83
+    Payload: 10.0kg
+    Energy Consumption: 2.71 kWh
+
+Total UAV Distance: 15.83
+Total UAV Energy Consumption: 3.96 kWh
+
+Path Combined Metrics:
+Total Combined Distance: 164.16
+Total Combined Energy: 242.77 kWh
+
+Path IDs:
+Truck Path: ['D0', 'S5', 'S6', 'C12', 'C16', 'S8', 'C18', 'C17', 'C15', 'S7', 'C13', 'D0']
+UAV Path: [['C12', 'C14', 'C16'], ['C17', 'C19', 'C15']]
+
+Path 7:
+Original Path Distance: 153.29
+Truck Path Distance: 152.88
+Truck Payload: 190.0kg
+Truck Energy Consumption: 270.6 kWh
+
+UAV Path Metrics:
+  UAV Trip 1:
+    Distance: 10.83
+    Payload: 10.0kg
+    Energy Consumption: 2.71 kWh
+
+Total UAV Distance: 10.83
+Total UAV Energy Consumption: 2.71 kWh
+
+Path Combined Metrics:
+Total Combined Distance: 163.71
+Total Combined Energy: 273.31 kWh
+
+Path IDs:
+Truck Path: ['D0', 'C34', 'C32', 'S10', 'C39', 'C33', 'C31', 'S12', 'C38', 'C37', 'C35', 'S11', 'S13', 'D0']
+UAV Path: [['C39', 'C36', 'C33']]
+
+Path 8:
+Original Path Distance: 120.62
+Truck Path Distance: 120.62
+Truck Payload: 200.0kg
+Truck Energy Consumption: 223.15 kWh
+
+Path Combined Metrics:
+Total Combined Distance: 120.62
+Total Combined Energy: 223.15 kWh
+
+Path IDs:
+Truck Path: ['D0', 'C59', 'S14', 'C60', 'C58', 'C56', 'C53', 'C54', 'S16', 'C55', 'C57', 'S15', 'D0']
+UAV Path: []
+
+Path 9:
+Original Path Distance: 53.23
+Truck Path Distance: 53.23
+Truck Payload: 170.0kg
+Truck Energy Consumption: 85.7 kWh
+
+Path Combined Metrics:
+Total Combined Distance: 53.23
+Total Combined Energy: 85.7 kWh
+
+Path IDs:
+Truck Path: ['D0', 'C67', 'C65', 'C63', 'C74', 'C62', 'C64', 'C68', 'C69', 'D0']
+UAV Path: []
+
+Path 10:
+Original Path Distance: 62.89
+Truck Path Distance: 48.19
+Truck Payload: 110.0kg
+Truck Energy Consumption: 54.45 kWh
+
+UAV Path Metrics:
+  UAV Trip 1:
+    Distance: 6.61
+    Payload: 10.0kg
+    Energy Consumption: 1.65 kWh
+  UAV Trip 2:
+    Distance: 11.61
+    Payload: 20.0kg
+    Energy Consumption: 4.64 kWh
+  UAV Trip 3:
+    Distance: 13.23
+    Payload: 20.0kg
+    Energy Consumption: 5.29 kWh
+
+Total UAV Distance: 31.45
+Total UAV Energy Consumption: 11.58 kWh
+
+Path Combined Metrics:
+Total Combined Distance: 79.64
+Total Combined Energy: 66.03 kWh
+
+Path IDs:
+Truck Path: ['D0', 'C21', 'C22', 'C25', 'C30', 'S9', 'C28', 'D0']
+UAV Path: [['C21', 'C23', 'C22'], ['C22', 'C24', 'C26', 'C25'], ['C25', 'C29', 'C27', 'C30']]
+
+GRAND TOTALS:
+Total Truck Distance: 1017.69
+Total Truck Energy: 1591.16 kWh
+Total UAV Distance: 189.96
+Total UAV Energy: 63.81 kWh
+Total Combined Distance: 1207.65
+Total Combined Energy: 1654.97 kWh
+
+Total UAV Distance in Cluster 1: 20.0 units
+Total UAV Energy Consumption in Cluster 1: 5.0 kWh
+
+Total UAV Distance in Cluster 2: 189.96 units
+Total UAV Energy Consumption in Cluster 2: 63.809999999999995 kWh
+
+GRAND TOTAL UAV Distance: 209.96 units
+GRAND TOTAL UAV Energy Consumption: 68.81 kWh
+
+TOTAL DISTANCE (UAV Cluster 1 + UAV Cluster 2 + Truck): 1227.65 units
+TOTAL ENERGY (UAV Cluster 1 + UAV Cluster 2 + Truck): 1659.9700000000003 kWh
+
+CPU time used: 126.9375 seconds
+
+Process finished with exit code 0
