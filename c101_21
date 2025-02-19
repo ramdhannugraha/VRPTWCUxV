@@ -1,3 +1,30 @@
+Cluster 1 (distance <= 11 AND demand <= 10):
+- 1 consumers
+
+Cluster 2 (all others):
+- 99 consumers
+
+Cluster 1 details (ID, Distance, Demand):
+C20: distance=10.00, demand=10.0
+CLUSTER 1
+
+Delivery Routes:
+=====================
+Delivery 1 to C20:
+Distance: 20.0 units
+Energy Consumption: 5.0 kWh
+Total Time: 110.0
+
+Overall Statistics:
+==================
+Total Distance: 20.0 units
+Total Energy Consumption: 5.0 kWh
+
+
+CLUSTER 2
+
+Delivery Routes:
+=====================
 Path 1:
 Original Path Distance: 105.91
 Truck Path Distance: 104.92
@@ -258,6 +285,7 @@ Path IDs:
 Truck Path: ['D0', 'C21', 'C22', 'C25', 'C30', 'S9', 'C28', 'D0']
 UAV Path: [['C21', 'C23', 'C22'], ['C22', 'C24', 'C26', 'C25'], ['C25', 'C29', 'C27', 'C30']]
 
+==================================================================================================
 GRAND TOTALS:
 Total Truck Distance: 1017.69
 Total Truck Energy: 1591.16 kWh
@@ -265,19 +293,19 @@ Total UAV Distance: 189.96
 Total UAV Energy: 63.81 kWh
 Total Combined Distance: 1207.65
 Total Combined Energy: 1654.97 kWh
-
+==================================================================================================
 Total UAV Distance in Cluster 1: 20.0 units
 Total UAV Energy Consumption in Cluster 1: 5.0 kWh
-
+==================================================================================================
 Total UAV Distance in Cluster 2: 189.96 units
 Total UAV Energy Consumption in Cluster 2: 63.809999999999995 kWh
-
+==================================================================================================
 GRAND TOTAL UAV Distance: 209.96 units
 GRAND TOTAL UAV Energy Consumption: 68.81 kWh
-
+==================================================================================================
 TOTAL DISTANCE (UAV Cluster 1 + UAV Cluster 2 + Truck): 1227.65 units
 TOTAL ENERGY (UAV Cluster 1 + UAV Cluster 2 + Truck): 1659.9700000000003 kWh
-
+==================================================================================================
 CPU time used: 126.9375 seconds
+==================================================================================================
 
-Process finished with exit code 0
